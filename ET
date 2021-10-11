@@ -77,7 +77,7 @@ color:black;
 <body>
 <ul>
   <li><a href="file:///C:/Users/HP/Videos/OE2/ET.html">Home</a></li>
-  <li><a href="opene.github.io/ET2.HTML">About</a></li>
+  <li><a href="file:///C:/Users/HP/Videos/OE2/ET2.HTML">About</a></li>
   <li><a href="file:///C:/Users/HP/Videos/OE2/ET3.html">Contact</a></li>
   
 </ul>
